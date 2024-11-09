@@ -2,7 +2,7 @@
   <br />
     <h1>Clothes eCommerce Mobile App</h1>
   <br />
-  <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="480px"/>
+  <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="auto"/>
   <br />
   <div>
     <br/>
